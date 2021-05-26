@@ -1,0 +1,144 @@
+
+
+.bg-container {
+  background-color: #E8CEBF;
+  height: 100vh;
+  background-size: cover;
+}
+
+.myproject-card {
+  text-align: center;
+  background-color: white;
+  padding: 5px;
+}
+
+.button {
+  color: white;
+  background-color: #25b1cc;
+  width: 108px;
+  height: 36px;
+  border-width: 0px;
+  border-radius: 20px;
+}
+
+.main-heading {
+  font-family: "Roboto";
+}
+
+.myproject-bg-container {
+  background-color: #FDF8F5;
+  height: 100vh;
+  background-size: cover;
+}
+.myproject-heading {
+	text-align: center;
+  color: #D281B5;
+  font-family: italic;
+  font-size: 28px;
+  font-weight: bold;
+}
+.myproject-card-container {
+  background-color: #dce1e3;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 15px;
+}
+
+
+.myproject-card-heading {
+  color: #0f0e46;
+  font-family: "Roboto";
+  font-size: 23px;
+  font-weight: bold;
+}
+.myproject-card-description {
+  color: #6c6b70;
+  font-family: "Roboto";
+  font-size: 13px;
+}
+.myproject-card-image {
+    border-radius: 10px;
+    width: 80px;
+    height: 100px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #ffffff;
+  }
+  
+.myproject-education-card-container{
+  background-color: #CAFAFE;
+  border-radius: 25px;
+  padding: 16px;
+  margin-bottom: 15px;
+}
+
+.myproject-education-card-heading{
+  text-align: center;
+  color: #0e42eb;
+  font-family: "Roboto";
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.unordered-square-list {
+  list-style-type: square;
+}
+
+.myproject-card-text-container {
+  margin-right: 15px;
+  background-color: #d3f0f5;
+  border-radius: 5px;
+  padding: 16px;
+}
+
+.my-projects-home-page {
+    text-align: center;
+    padding: 15px;
+}
+
+.software-developer-image{
+  width: 80vw;
+  border-radius: 20px;
+  height: 400px
+  width: 500;
+  margin-bottom: 15px;
+  
+}
+
+.myprojects-description{
+  font-family: "Roboto"
+  color: #d93030;
+}
+
+.myproject-image{
+  width: 300px;
+  height: 200px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.myprojects-card-container{
+  background-color: #c4f5e6;
+  border-radius: 5px;
+  padding: 16px;
+}
+
+.myprojects-card-subheading{
+  color: #0e42eb;
+  font-family: "Roboto";
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.myprojects-description{
+  font-family: "Roboto"
+  color: #d93030;
+}
+
+.myproject-card-image{
+  width: 250px;
+  height: 300px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
